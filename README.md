@@ -1,5 +1,4 @@
 # Tic-Tac-Toe-game
-<br>
 
 ## 🛠️ Technologies Used
 - **HTML & CSS:** For the front-end user interface.
